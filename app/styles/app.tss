@@ -1,0 +1,11 @@
+
+"Button": {
+  color:'#fff',
+  backgroundImage: '/button_orange.png',
+  borderRadius: 5,
+  left: 10,
+  right: 10,
+  width:Ti.UI.FILL,
+  height:57,
+  font:{fontSize:20,fontWeight:'bold',fontFamily:'Helvetica Neue'}
+}
